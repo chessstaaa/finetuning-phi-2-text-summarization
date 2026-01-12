@@ -45,3 +45,16 @@ Membangun sistem summarization end-to-end berbasis Transformer dengan:
 
 ```bash
 pip install -r requirements.txt
+```
+---
+
+## 🗂 Full Folder Link
+https://drive.google.com/drive/folders/1gUZu_PK6QfxYiBZC8XsifPHobukVMWHz?usp=sharing
+
+The link contains:
+1. Model folder
+2. Notebook folder
+3. Output folder
+4. Reports folder
+5. README.md
+6. requirements.txt
