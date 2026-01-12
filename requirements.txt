@@ -1,0 +1,12 @@
+transformers>=4.41.0
+datasets>=2.19.0
+evaluate>=0.4.2
+accelerate>=0.31.0
+torch
+numpy
+scikit-learn
+
+rouge-score
+sentencepiece
+peft>=0.11.0
+bitsandbytes
